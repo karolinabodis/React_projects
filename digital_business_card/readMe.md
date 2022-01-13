@@ -16,4 +16,4 @@ Separate components for:
 
 ✔️ Footer section (social icons)
 
-Click here for [live preview](https://karolinabodis.github.io/React_Projects/digital_business_card/build/index.html).
+Click here for [live preview](https://karolinabodis.github.io/React_projects/digital_business_card/build/index.html).
