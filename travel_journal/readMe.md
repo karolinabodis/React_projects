@@ -17,4 +17,4 @@ _Goals:_
 
 ✔️ Use map() and props
 
-Click here for [live preview](https://karolinabodis.github.io/React_Projects/travel_journal/build/index.html).
+Click here for [live preview](https://karolinabodis.github.io/React_projects/travel_journal/build/index.html).
